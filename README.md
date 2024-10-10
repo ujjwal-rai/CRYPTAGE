@@ -1,5 +1,3 @@
-Here's a detailed README file based on your instructions:
-
 ---
 
 # Cryptocurrency Tracker App
